@@ -25,4 +25,4 @@ Points to focus on:
 
 Publish the code as a GitHub or a private Bitbucket repo
 Adding a new test scenario should be easy
-If you have any questions about the task or expected outcomes, please feel free to ask us
+
