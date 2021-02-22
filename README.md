@@ -1,5 +1,5 @@
 # zendeskSellTest
-This task is to write a front end OR API automated test in a language and framework of your choice which covers the following scenario:
+This task is to write a front end OR API automated test in a language and framework which covers the following scenario:
 
 Preconditions:
 
